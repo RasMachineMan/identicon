@@ -2,7 +2,6 @@
 
 Generates GitHub like avatars. 
 Run Identicon.generate(input)
-End
 
 ## Installation
 
